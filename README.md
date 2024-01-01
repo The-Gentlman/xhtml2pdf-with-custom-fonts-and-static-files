@@ -1,3 +1,5 @@
+Django Project
+
 I downloaded this code from Dennis Ivy Github (his YouTube: https://www.youtube.com/@DennisIvy).
 The base of the code was made by him (templates, URLs, settings).
 I added two functions: link_callback and render_pdf_download.
