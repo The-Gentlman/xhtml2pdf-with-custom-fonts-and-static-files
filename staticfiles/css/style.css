@@ -1,0 +1,25 @@
+body {
+  font-family: "Samim";
+}
+
+.font-fa {
+  font-family: "Samim";
+}
+
+th {
+  font-size: 8px;
+  color: #747474;
+}
+
+td {
+  font-size: 8px;
+  color: #363636;
+}
+
+.tbl tr {
+  height: 20px;
+}
+
+.tblr * {
+  margin-right: 8px !important;
+}
