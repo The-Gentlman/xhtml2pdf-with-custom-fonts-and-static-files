@@ -9,8 +9,14 @@ So, read this documentation before using it. Have fun!
 
 
 python -m venv venv
+
+
 pip install django==4.2.8
+
+
 pip install xhtml2pdf
+
+
 python manage.py runserver
 
 
